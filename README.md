@@ -168,6 +168,6 @@ const deybbi = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c6df0&height=120&section=footer" width="100%"/>
 
-*"La tecnología debe ser para todos. Sin excepción."* — Deybbi Crisanto
+*"La tecnología debe ser para todos. Sin excepción."* — Deybbi Crisanto Calle
 
 </div>
