@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deybbi%20Crisanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deybbicrisanto2003/)
 [![Gmail](https://img.shields.io/badge/Gmail-dacc7056%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dacc7056@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Dacc03.github.io-7c6df0?style=for-the-badge&logo=github&logoColor=white)](https://dacc03.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Dacc03.github.io-7c6df0?style=for-the-badge&logo=github&logoColor=white)](https://dacc03.github.io/Dacc03/)
 [![UPC](https://img.shields.io/badge/UPC-9no%20Ciclo-E3262D?style=for-the-badge&logo=google-scholar&logoColor=white)](https://upc.edu.pe)
 
 </div>
@@ -158,7 +158,7 @@ const deybbi = {
 
 [![Email](https://img.shields.io/badge/dacc7056%40gmail.com-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dacc7056@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/deybbicrisanto2003-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deybbicrisanto2003/)
-[![Portfolio](https://img.shields.io/badge/dacc03.github.io-Ver%20portafolio-7c6df0?style=for-the-badge&logo=github-pages&logoColor=white)](https://dacc03.github.io)
+[![Portfolio](https://img.shields.io/badge/dacc03.github.io-Ver%20portafolio-7c6df0?style=for-the-badge&logo=github-pages&logoColor=white)](https://dacc03.github.io/Dacc03/)
 
 </div>
 
@@ -168,6 +168,6 @@ const deybbi = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c6df0&height=120&section=footer" width="100%"/>
 
-*"La tecnología debe ser para todos. Sin excepción."* — Deybbi Crisanto Calle
+*"La tecnología debe ser para todos. Sin excepción."* — Deybbi Crisanto
 
 </div>
